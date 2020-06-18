@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   this is a space for thinking about belonging, race and human connection. its also where i work on developping my tech skillz. 
 slogan: toujours plus mou, toujours plus doux.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "poiremolle.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
