@@ -296,7 +296,7 @@ grid-gap: 1px;
     display: inline-block;  
     width: $spacing-unit * 7.5;
     height: $spacing-unit * 9.5;
-    overflow: hidden;
+    //overflow: hidden;
     margin: 0;
    // background-color:aqua;
   }
@@ -306,11 +306,13 @@ grid-gap: 1px;
    display: block; 
 }
 
+#canvasp {display: inline-block;}
 
+#article-content {display: inline-block};
 
 
 .post-meta {   
-  //margin-top: -50px;    
+  margin-top: 0px;    
   display: block;    
   color: $brand-color-light;
   @include relative-font-size(0.5);
@@ -321,6 +323,7 @@ grid-gap: 1px;
   display: block;
   width: 85%;
   @include relative-font-size(0.5);
+  
 }
 
 
@@ -379,6 +382,11 @@ grid-gap: 1px;
   }
 }
 
+
+#canvasp {
+    float: left;
+    margin-right: 25px;
+}
 
 .social-media-list {
   display: table;

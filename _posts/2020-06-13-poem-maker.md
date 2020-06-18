@@ -5,8 +5,6 @@ categories: project
 banner: /images/unshakeablefaith.png
 ---
 
-![image of a poem](/images/unshakeablefaith.png)
-
 Last month I started playing with [the p5 js library](https://p5js.org/) with the help of [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) videos on youtube.  I also learned to use git and github with The Coding Train. 
 
 First I wanted to make a sort of data visualization program that would make abtract art out of gps coordinates, times and dates (you can see it half finished on my github account) but it's harder that I thought to represent data visually in a meaningful way.
