@@ -20,11 +20,16 @@ Anways, I totally went on a tangent.
 
 ### How can I create tech tools that facilitate activism and the conveying of important messages? 
 
-That's what I'm wondering now... the future getting increasingly shaped by various technologies and I want Black voices, First Nations, Inuit, Métis voices, POC voices, trans voices, cis women's voices, LGBTQIA2S+ voices, the voices of people from diverse classes, body types and abilities to be part of history this time around.  We cannot, for all of our sakes, let the story of how technology took over the world be written solely by cis white people, especially white cis (person whose sense of personal identity and gender corresponds with their birth sex) men.   
+That's what I'm wondering now... the future getting increasingly shaped by various technologies and we need our voices, Black voices, First Nations, Inuit, Métis voices, POC, trans , cis women, LGBTQIA2S+ voices, the voices of people from diverse classes, body types and abilities to be part of writing history this time around.  I don't want us to get left behind again. No more being meek or underestimated. We must claim the space we deserve in the future that is coming.  
 
 ### How do we facilitate the learning of coding and programming for aforementionned people and secure jobs within the tech industry?
 
 [Drop me a line](mailto:lapoiremolle@gmail.com) if you want to share your ideas.
 
+In the meantime, here are some interesting orgs/collectives/projects to check out:
+
+- [Color Coded Collective](https://www.instagram.com/colorcodedcollective/)
+- [Cozy Coding](https://www.twitch.tv/cozycoding)
+- [Hack Your Future DK](https://www.hackyourfuture.dk/) (brought to my attention by [Ember Blooming](https://care-giver-to-frankensteins-heart.github.io/) )
 
 
