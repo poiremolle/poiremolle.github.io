@@ -32,4 +32,7 @@ In the meantime, here are some interesting orgs/collectives/projects to check ou
 - [Cozy Coding](https://www.twitch.tv/cozycoding)
 - [Hack Your Future DK](https://www.hackyourfuture.dk/) (brought to my attention by [Ember Blooming](https://care-giver-to-frankensteins-heart.github.io/) )
 
+EDIT 27/06/20
+
+[The Come Up](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ/about/) (personal finances and tech)
 
