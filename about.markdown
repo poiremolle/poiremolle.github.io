@@ -3,11 +3,13 @@ layout: page
 title: about
 permalink: /about/
 ---
-**My name is Mélissa and i am currently based in Copenhagen, Denmark** (no, not the Netherlands, Denmark is not part of the Netherlands)
+**My name is Mélissa and i am currently based in Copenhagen, Denmark.** 
 
-This is a space exploring the intersection between tech and art. It's also a space for thinking about belonging, race, sexuality and human connection.
+This is a space for exploring the intersection between life, tech and art.  
+  
+  
 
-**find me on:** [instagram](https://instagram.com/poire_molle) / [github](https://github.com/poiremolle) / facebook (coming soon!)
+**find me on:** [instagram](https://instagram.com/poire_molle) / [github](https://github.com/poiremolle) / [facebook](https://www.facebook.com/Poire-Molle-106151347814633)
 
 **drop me a line:** [lapoiremolle@gmail.com](mailto:lapoiremolle@gmail.com)
 
