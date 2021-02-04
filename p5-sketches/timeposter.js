@@ -1,6 +1,6 @@
 
 function setup() {
-    canvas = createCanvas(740, 556);
+    canvas = createCanvas(550, 760);
         canvas.parent('canvasp');
     
     
@@ -20,6 +20,7 @@ let rowFirk = 7;
     
     for (let p = 0; p < colFirk; p++) {
         for(let b = 0; b < rowFirk; b++) {
+
             push();
             translate(width / (colFirk - 1) * p, height / (rowFirk - 1) * b);
                 rotate(m * (p + b));
