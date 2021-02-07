@@ -1,3 +1,4 @@
+let size;
 
 function setup() {
     canvas = createCanvas(550, 760);
@@ -15,18 +16,20 @@ function draw() {
 background(255, 240, 230);
 let h = hour();
 let m = minute();
-let colFirk = 5;
+let colFirk = 7;
 let rowFirk = 7;
+    size = 30;
+
     
     for (let p = 0; p < colFirk; p++) {
         for(let b = 0; b < rowFirk; b++) {
 
             push();
-            translate(width / (colFirk - 1) * p, height / (rowFirk - 1) * b);
-                rotate(m * (p + b));
+            translate(width / (colFirk - 1) * p + m, height / (rowFirk - 1) * b + h);
+                rotate(m * (p * b));
                 noStroke();
-            fill(255);
-                rect(45, 45, 30, 30);
+            fill(255,200,240,100);
+                rect(5 * p + h, 5 * b + m, size * p, size);
             pop();
         }
     }
