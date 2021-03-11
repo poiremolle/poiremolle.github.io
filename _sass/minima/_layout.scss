@@ -235,7 +235,7 @@
 
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
-    display: flex
+    display: flex;
   }
 
   .footer-col {
@@ -311,17 +311,19 @@
 
 
 .post-meta {   
-  margin-top: 0px;    
+  margin-top: 10px;    
   display: block;    
   color: $brand-color-light;
-  @include relative-font-size(0.5);
+  @include relative-font-size(0.75);
  
 }
 
 .post-link {      
   display: block;
   width: 85%;
-  @include relative-font-size(0.5);
+  //@include relative-font-size(0.5);
+    padding-bottom: 50px;
+
   
 }
 
@@ -379,6 +381,10 @@
   h6 {
     @include relative-font-size(1.0625);
   }
+    
+    p {
+        text-align: justify;
+    }
 }
 
 
